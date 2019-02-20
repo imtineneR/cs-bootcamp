@@ -2,10 +2,10 @@
 #!!
 #! @description: Generated Python operation description.
 #!
-#! @input input_1: Generated description
+#! @input url: Generated description
 #! @input input_2: Generated description
 #!
-#! @output output_1: Generated description
+#! @output filename: Generated description
 #!
 #! @result SUCCESS: Operation completed successfully.
 #! @result FAILURE: Failure occurred during execution.
